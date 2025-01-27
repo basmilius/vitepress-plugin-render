@@ -19,3 +19,11 @@ export default defineConfig({
     // ... 
 });
 ```
+
+## 👀 Usage
+
+```markdown
+::: render
+render=../path/to/file.vue
+:::
+```
